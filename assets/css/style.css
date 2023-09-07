@@ -129,15 +129,6 @@ redundancies */
 
 /* removed ".online-reputation-management h2" and ".social-media-marketing h2" due to
 redundancies */
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
